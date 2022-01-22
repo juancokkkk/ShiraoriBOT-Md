@@ -1,1 +1,1 @@
-web: npm i @adiwajshing/baileys-Md && node . --self
+web: npm i adiwajshing/baileys-md && node . --self
